@@ -6,6 +6,11 @@ The prupose of this repo is to get my second step (first step was the book *Node
 
 Tutorial Source - [http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168](http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168)
 
+To Run :
+cd app
+npm install
+npm start
+
 ---
 Aims :
 
