@@ -1,10 +1,10 @@
 Tuts Website
-============================
+---
 
-This is a website developed in node.js follwoing the tutsplus tutorial.
-The prupose is to get my second step (first step was the book Node: Up and Running) correctly in making a full-fledged production ready web app.
+This is a website developed in node.js following the tutsplus tutorial.
+The prupose of this repo is to get my second step (first step was the book *Node: Up and Running*) correctly in making a full-fledged production ready web app.
 
-Tutorail Source - [http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168](http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168)
+Tutorial Source - [http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168](http://code.tutsplus.com/tutorials/build-a-complete-mvc-website-with-expressjs--net-34168)
 
 ---
 Aims :
