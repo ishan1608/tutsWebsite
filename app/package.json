@@ -1,5 +1,5 @@
 {
-    "name": "app",
+    "name": "TutsWebsite",
     "description": "This is a website developed in node.js following the tutsplus tutorial.",
     "version": "0.0.1",
     "scripts": {
